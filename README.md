@@ -20,6 +20,12 @@ npm install higlass-multivec
 ```
 ## Usage
 
+To use this track type, include it as a script in your web page (along with the higlass script).
+
+```
+    <script src="https://unpkg.com/higlass-multivec@v0.1.5/dist/higlass-multivec.js"></script>
+```
+
 There are three types of tracks to choose from:
 
 ```
